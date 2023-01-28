@@ -2,3 +2,5 @@ django
 djangorestframework
 psycopg2
 tzdata
+requests
+djangorestframework-gis
